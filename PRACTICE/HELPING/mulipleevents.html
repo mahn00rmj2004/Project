@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Jquery</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+	</head>
+	<body>
+		<h1>This is the heading</h1>
+		<script>
+		
+		
+		
+		$(document).ready(function(){
+			$('h1').on({
+				mouseenter:function(){
+					$(this).css('backgroundColor','red');
+				},
+				mouseleave:function(){
+					$(this).css('backgroundColor','yellow');
+				},
+				click:function(){
+					alert('this is the way to handle multiple events');
+				},
+			});
+		});
+		
+		</script>
+
+	</body>
+</html>

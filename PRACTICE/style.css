@@ -1,0 +1,958 @@
+.navbar{ 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+ border:border-box;
+ height: 20px;
+ background-color: brown;
+}
+.navbar2{
+    
+    list-style-type:none;
+    padding-right: 0ch;
+    background-color: rgb(255, 191, 21);
+    height:45px;
+    cursor:pointer ;
+   
+}
+.searchbar{
+    position: relative;
+    right:20px;
+}
+.navbar-brand{
+    height: 95px;
+}
+#hero{
+ background-image:url("HELPING/image.png");
+  height:635px;
+  width: 1500px; 
+  position: relative;
+  top:-21px;
+  left:10px; }
+.height{
+    font-size: x-large;
+    margin-left:20px ;
+    bottom: 2px; ;
+}
+#h2{
+    color:#088178;
+}
+.lang{
+    position: relative;
+    top:-67px;
+    left:300px;
+}
+.selected{
+ position: relative;
+ top:-24px;
+ left:50px;
+}
+.flag{
+    height:20px;
+    width: 30px;
+}
+.btn btn-dark dropdown-toggle {
+    position: relative;
+    top:-px;
+
+}
+.border{
+    border: solid ;
+    color: black;
+}
+.women{
+    text-align: center;
+    font-weight: bolder;
+}
+.card-text{
+    color:blue ;
+}
+.cut{
+    color: red;
+}
+.stars{
+    position: relative;
+    top: -21px;
+    left:100px;
+    font-size: x-large;
+}
+.fa-sharp{
+    position: relative;
+    bottom:-195px;
+    left:320px;
+}
+.fa1{
+   position: relative; 
+   left:320px;
+}
+.card{
+    position: relative;
+
+}
+.women{
+    position: relative;
+    bottom:-5px;
+    background-color:rgb(255, 184, 19) ;
+    font-size: large;
+    left:10px;
+    border:none ;
+}
+.men{
+    position: relative;
+    bottom:-5px;
+    background-color:rgb(255, 184, 19) ;
+    font-size: large;
+    right:20px ;
+    border:none;
+}
+#searchbtn{
+    position:relative;
+    top:-30px;
+    left:150px; 
+}
+.login{
+    position:absolute;
+    left:700px;
+}
+.cardt1{
+    position: relative;
+    top: px;
+    left:px;
+
+}
+.cardt2{
+    position: relative;
+    top: px;
+    left:px;
+
+}
+.cardt3{
+position: relative;
+top:-px;
+left:px;
+}
+.cardt4{
+    position: relative;
+    top:-px;
+    left:px;
+
+}
+.cardt5{
+    position: relative;
+    top:-px;
+    left:px;
+
+}
+.cardt6{
+    position: relative;
+    top: -px;
+    left: px; 
+}
+.cardt7{
+    position: relative;
+    top:-px;
+    left:px;
+
+}
+.cardt8{
+    position: relative;
+    top:-px;
+    left:px;
+}
+.cardt9{
+    position: relative;
+    top:-px;
+    left:px;
+
+}
+.cardt10{
+    position: relative;
+    top:-px;
+    left:px;
+
+}
+.cardt11{
+    position: relative;
+    top:-px;
+    left: px;
+}
+.cardt12{
+    position: relative;
+    top:-px;
+    left:px;
+}
+#cart2{
+    position: relative;
+}
+#cart3{
+    position: relative;
+}
+#cart4{
+    position: relative;
+    top:0px; 
+}
+#cart5{
+    position: relative;
+}
+#cart6{
+    position: relative;
+}
+#cart7{
+    position: relative;
+}
+#cart8{
+    position: relative;
+}
+#cart9{
+    position: relative;
+}
+#cart10{
+    position: relative;
+}
+#cart11{
+    position: relative;
+}
+.back-vedio{
+    position: relative;
+    right:4200px;
+    
+}
+.cardj1{
+    position: relative;
+    top:-px;
+    left:px;
+
+}
+.cardj2{
+    position: relative;
+    top:-650px;
+    left:450px;
+
+}
+.cardj3{
+position: relative;
+top:-1330px;
+left:900px;
+
+}
+.cardj4{
+    position: relative;
+    top:-1300px;
+    left:px;
+
+}
+.cardj5{
+    position: relative;
+    top: -2000px;
+    left:450px;
+
+}
+.cardj6{
+    position: relative;
+    top:-8000px;
+    left:800px; 
+}
+.cardj7{
+    position: relative;
+    top: 100px;
+}
+.cardj8{
+    position: relative;
+    top:-560px;
+    left:450px;
+}
+.cardj9{
+    position: relative;
+    top:-490px;
+    left:px;
+}
+.cardj10{
+    position: relative;
+    top: -1100px;
+    left:450px;
+
+}
+.cardj11{
+    position: relative;
+    top:-px;
+    left: px;
+}
+.cardj12{
+    position: relative;
+    top:-3940px;
+    left:450px;
+}
+.cardj13{
+    position: relative;
+    top:-3900px;
+    left:450px;
+}
+/* .card1j14{
+    position:relative;
+    top:-px;
+    right:800px;
+} */
+.cardj15{position: relative;
+top: -4600px;
+right: 450px;}
+.cardj16{position: relative;
+top: -5200px;}
+.cardj17{
+    position: relative;
+    top:-5090px;
+    right:450px;
+}
+.cardj18{position: relative;
+top: -5000px;
+right: 450px;}
+.footer2{
+    position: relative;
+    top: -4900px;
+    right:450px;
+}
+.container1{
+    background-color:white;
+}
+.cardd1{
+    position: relative;
+    top: -20px;
+    left:560px;
+
+}
+.cardd2{
+    position: relative;
+    top:-740px;
+    left:50px;
+
+}
+.cardd3{
+position: relative;
+top:-700px;
+left:1070px;
+
+}
+.cardd4{
+    position: relative;
+    top:-2300px;
+    left:1070px;
+
+}
+.cardd5{
+    position: relative;
+    top:-2260px;
+    left:50px;
+
+}
+.cardd6{
+    position: relative;
+    top:-770px;
+    left:512px; 
+}
+.cardd7{
+    position: relative;
+    top:-760px;
+    left:px;
+
+}
+.cardd8{
+    position: relative;
+    top:-1540px;
+    left:1024px;
+}
+.cardd9{
+    position: relative;
+    top:-2300px;
+    left:512px;
+
+}
+.cardd10{
+    position: relative;
+    top:-2290px;
+    left:px;
+
+}
+.cardd11{
+    position: relative;
+    top:-3100px;
+    left:512px;
+}
+.cardd12{
+    position: relative;
+    top:-3060px;
+    left:1024px;
+}
+.cardd13{
+    position: relative;
+    top:-3780px;
+    left:px;
+}
+.cardd14{
+    position: relative;
+    top:-2900px;
+    left:520px;
+}
+.cardd15{
+    position: relative;
+    top:-6240px;
+    left:1030px;
+
+}
+.cardd16{
+    position: relative;
+    top:-6100px;
+    left:517px;
+
+}
+.cardd17{
+    position: relative;
+    top:-6040px;
+    left:px;
+}
+.cardd18{
+    position: relative;
+    top:-6000px;
+    left:1040px;
+}
+.cardd19{
+    position: relative;
+    top:-6800px;
+    left:px;
+}
+.cardd20{
+    position: relative;
+    top:-8380px;
+    left:520px;
+}
+.cardd21{
+   
+    position: relative;
+    top:-9200px;
+    left:1034px;
+}
+.footer3{
+    position: relative;
+    top:-8200px;
+    right:47px;
+}
+.cardS1{position: relative;
+        top:-px;
+        right:20px;}
+.cardS2{position: relative;
+    top:-660px;
+    left:460px;}
+.cardS3{position: relative;
+    top:-600px;
+    right:20px ;}
+.cardS4{position: relative;
+    top:-1210px;
+    left:460px;}
+.cardS5{position: relative;
+    top:-1130px;
+    right:20px;}
+.cardS6{position: relative;
+    top:-640px;
+    left:490px;}
+.cardS7{position: relative;
+    top:-2630px;
+    left:950px;}
+.cardS8{position: relative;
+    top:-1240px;
+    left:500px;}
+.cardS9{position: relative;
+    top:-3360px;
+    left:960px;}
+.cardS10{position: relative;
+    top:-2630px;
+    left:px;}
+.cardS11{position: relative;
+    top:-3980px;
+    left:950px;}
+.cardS12{position: relative;
+    top:-3900px;
+    left:950px;}
+.shoesvedio{
+    position: relative;
+    right:100px; 
+}
+.privacy{
+    font-weight: bold;
+}
+#PrivacyStatement{
+    text-align: center;
+}
+.container2{
+    padding-left:300px ;
+    padding-right:300px ;
+}
+.body{
+    background-color:lightgrey;
+}
+.cardC1{position: relative;
+
+left: 460px;}
+.cardC2{position: relative;
+top: -730px;}
+.cardC3{position: relative;
+top: -670px;
+right: 10px;}
+.cardC4{position: relative;
+ top: -1380px;   
+left:930px ;}
+.cardC5{position: relative;
+    left:160px;
+}
+.cardC6{position: relative;
+top:-1350px;
+left:-10px;}
+.cardC7{position: relative;
+right: 26px;
+bottom:-2600px;}
+.cardC8{position: relative;
+top: -3580px;
+left: 460px;}
+.cardC9{position: relative;
+top: -2020px;
+left:920px;}
+.cardC10{position: relative;
+top: -3470px;
+left:930px;}
+.cardC11{position: relative;
+top: -2700px;
+left:440px ;}
+.cardC12{position: relative;
+top:-7160px; 
+left:920px;}
+.cardC13{position: relative;
+ top: -6350px;   
+left: 450px;}
+.cardC14{position: relative;
+top: -6270px;
+left:450px;}
+.cardC15{position: relative;
+top: -6240px;
+left: 450px;}
+.cardC16{position: relative;
+top: -7700px;
+right: 20px;}
+.cardC17{position: relative;
+top:-6080px;
+left: 910px;}
+.cardC18{position: relative;
+top: -8370px;
+right: 20px;}
+.cardC19{position: relative;
+top: -8330px;
+right:20px;
+}
+.cardC20{position: relative;
+top: -9100px;
+left:910px;}
+.cardC21{position: relative;
+top:-7470px;
+left:450px;}
+.cardC22{position: relative;
+top: -9030px;
+right:30px;}
+.cardC23{position: relative;
+top:-9799px;
+left: 450px;}
+.cardC24{position: relative;
+top: -11350px;
+right:20px;
+}
+.cardC25{position: relative;
+ top: -15200px;
+left:930px;}
+.cardC26{position: relative;
+ top:-12100px;   
+left: 900px;}
+.cardC27{position: relative;
+top: -13570px;
+left:450px;}
+.cardC28{position: relative;
+top: -12730px;    
+left:905px;}
+.footer{
+    position: relative;
+    left:5px;
+    top:-12600px; 
+}
+.x{position: relative;
+ right:40px;}
+.card2{position: relative;
+top: -770px;   
+left:460px;}
+.card3{position: relative;
+top: -1530px;
+left: 950px;}
+.card4{position: relative;
+top: -1460px;
+right:40px;}
+.card5{position: relative;
+top:-2200px;
+left:470px;}
+.card6{position: relative;
+top:-786px;    
+left:480px;}
+.card7{position: relative;
+top:-740px;}
+.card8{position: relative;
+top:-1540px;
+left:480px;}
+.card9{position: relative;
+top:-2240px;
+right:500px;}
+.card10{position: relative;
+ top: -2200px;   
+left: 500px;}
+.card11{position: relative;
+top:-2980px;}
+.card12{position: relative;
+top:-3700px;
+right: 500px;
+}
+.cardm1{position: relative;}
+.cardm2{position: relative;
+ top: -750px;
+left: 450px;}
+.cardm3{position: relative;
+top: -1560px;
+left: 900px;}
+.cardm4{position: relative;
+top: -1500px;}
+.cardm5{position: relative;
+top: -2230px;
+left: 450px;}
+.cardm6{position: relative;
+top: -780px;
+left: 460px;}
+.cardm7{position: relative;
+top: -700px;
+right:450px;}
+.cardm8{position: relative;
+top: -1400px;}
+.cardm9{position: relative;
+top: -2130px;   
+left: 450px;}
+.cardm10{position: relative;
+top: -2100px;}
+.cardm11{position: relative;
+top:-2900px;
+right:450px;}
+.cardm12{position: relative;
+top:-3700px;
+left:470px;}
+.mtshirts{
+position: relative;
+
+right:450px;    
+}
+.footer1{
+position: relative;
+top: -3600px; 
+right:450px;
+}
+.carda1{position: relative;
+    top: 30px;
+    right:40px;}
+.carda2{position: relative;
+   top: -700px;   
+   left:460px;}
+.carda3{position: relative;
+   top: -1440px;
+   left: 950px;}
+.carda4{position: relative;
+   top: -1360px;
+   right:40px;}
+.carda5{position: relative;
+   top:-2030px;
+   left:470px;}
+.carda6{position: relative;
+   top:-720px;    
+   left:480px;}
+.carda7{position: relative;
+   top:-690px;}
+.carda8{position: relative;
+   top:-1365px;
+   left:480px;}
+.carda9{position: relative;
+   top:-2060px;
+   right:500px;}
+.carda10{position: relative;
+    top: -2020px;   
+   left: 470px;}
+.carda11{position: relative;
+   top:-2700px;}
+.carda12{position: relative;
+   top:-3360px;
+   right: 500px;
+   }
+.carda13{ position: relative;
+   top:-3290px;
+   right:500px;
+}
+.carda15{ position: relative;
+    top: -3900px;;
+    right:480px;
+   }
+.carda16{ position: relative;
+    top: -3830px;
+    left:450px;}
+.carda14{ position: relative;
+    top: -3260px;
+    left: 460px;
+       }
+.carda17{ position: relative;
+    top: -4500px;  }
+.carda18{ position: relative;
+    top:-5180px;
+    right:480px;
+        }
+.carda19{ position: relative;
+    top: -6570px;
+       }   
+.carda20{ position: relative;
+     top: -7990px;
+    left:460px;
+        }   
+.carda21{ position: relative;
+    top:-8630px;
+     }   
+.footer4{
+    position: relative;
+    top:-7100px;
+    right:460px;
+}
+.adjust{
+    position: relative;
+    right: 40px;
+} 
+.footer5{
+    position: relative;
+    top: -4800px;
+}           
+.footer6{
+    position: relative;
+    top:-3600px;
+    right:440px;
+}
+.cardh1{position: relative;
+right:60px;}
+   .cardh2{position: relative;
+   top: -790px;   
+   left:450px;}
+   .cardh3{position: relative;
+   top: -1510px;
+   left:950px;}
+   .cardh4{position: relative;
+   top: -1390px;
+   right:50px;}
+   .cardh5{position: relative;
+   top:-2060px;
+   left:460px;}
+   .cardh6{position: relative;
+   top:46px;    
+   left:480px;}
+   .cardh7{position: relative;
+   top:-640px;}
+   .cardh8{position: relative;
+   top:-2060px;
+   left:480px;}
+   .cardh9{position: relative;
+   top:-2000px;
+   right:510px;}
+   .cardh10{position: relative;
+    top: -2000px;   
+   left: 500px;}
+   .cardh11{position: relative;
+   top:-2650px;}
+   .cardh12{position: relative;
+   top:-3350px;
+   right: 500px;
+   }
+   .footer7{
+    position: relative;
+    top:-3200px;
+    right: 450px;
+   }
+   .cardw1{position: relative;
+    right:40px;}
+   .cardw2{position: relative;
+   top:-790px;   
+   left:460px;}
+   .cardw3{position: relative;
+   top: -1620px;
+   left: 950px;}
+   .cardw4{position: relative;
+   top: -1560px;
+   right:40px;}
+   .cardw5{position: relative;
+   top:-2300px;
+   left:470px;}
+   .cardw6{position: relative;
+   top:-760px;    
+   left:480px;}
+   .cardw7{position: relative;
+   top:-750px;}
+   .cardw8{position: relative;
+   top:-1540px;
+   left:480px;}
+   .cardw9{position: relative;
+   top:-2310px;
+   right:500px;}
+   .cardw10{position: relative;
+    top: -2290px;   
+   left: 500px;}
+   .cardw11{position: relative;
+   top:-3120px;}
+   .cardw12{position: relative;
+   top:-3900px;
+   right: 500px;
+   }
+   .footer8{
+    position: relative;
+    top:-3800px;
+    right: 460px;
+   }
+   .cardx1{position: relative;
+    right:40px;}
+   .cardx2{position: relative;
+   top: -780px;   
+   left:460px;}
+   .cardx3{position: relative;
+   top: -1550px;
+   left: 950px;}
+   .cardx4{position: relative;
+   top: -1450px;
+   right:40px;}
+   .cardx5{position: relative;
+   top:-2220px;
+   left:470px;}
+   .cardx6{position: relative;
+   top:-760px;    
+   left:480px;}
+   .cardx7{position: relative;
+   top:-700px;}
+   .cardx8{position: relative;
+   top:-1460px;
+   left:480px;}
+   .cardx9{position: relative;
+   top:-2220px;
+   right:500px;}
+   .cardx10{position: relative;
+    top: -2120px;   
+   left: 480px;}
+   .cardx11{position: relative;
+   top:-2860px;}
+   .cardx12{position: relative;
+   top:-3600px;
+   right: 500px;
+   }
+   .footer9{
+    position: relative;
+    top:-3500px;
+    right:460px;
+   }
+   .cardy1{position: relative;
+    top: -60px;
+    right:40px;}
+   .cardy2{position: relative;
+   top: -720px;   
+   left:460px;}
+   .cardy3{position: relative;
+   top: -1410px;
+   left: 950px;}
+   .cardy4{position: relative;
+   top: -1370px;
+   right:40px;}
+   .cardy5{position: relative;
+   top:-1980px;
+   left:470px;}
+   .cardy6{position: relative;
+   top:-646px;    
+   left:480px;}
+   .cardy7{position: relative;
+   top:-630px;}
+   .cardy8{position: relative;
+   top:-1300px;
+   left:480px;}
+   .cardy9{position: relative;
+   top:-1900px;
+   right:500px;}
+   .cardy10{position: relative;
+    top: -1870px;   
+   left: 500px;}
+   .cardy11{position: relative;
+   top:-2470px;}
+   .cardy12{position: relative;
+   top:-3100px;
+   right: 500px;
+   }
+   .footer10{
+    position: relative;
+    top:-3000px;
+    right:470px;
+   }
+   .container4{
+    position: relative;
+    left: 600px;
+   }
+   .container10{
+    position: relative;
+ right:5px;
+   }
+   .searchbar1{
+    position: relative;
+    left:25px;
+   }
+   .container11{
+    position: relative;
+    left:25px;
+   }
+   .lang1{
+    position: relative;
+    top: -65px;
+    left: 350px;
+   }
+   .cardb1{position: relative;
+   top: 800px;
+   right:40px;}
+   .cardb2{position: relative;
+    top: -710px;   
+    right: 40px;}
+    .cardb3{position: relative;
+    top: -1460px;
+    left: 430px;}
+    .cardb4{position: relative;
+    top: -1400px;
+    left:900px;}
+    .cardb5{position: relative;
+    top:-2280px;
+    left:470px;}
+    .cardb6{position: relative;
+    top:-76px;    
+    left:480px;}
+    .cardb7{position: relative;
+    top:-2280px;
+    right: 150px;}
+    .card8{position: relative;
+    top:-1540px;
+    left:480px;}
+    .cardb9{position: relative;
+    top:-2240px;
+    right:500px;}
+    .cardb10{position: relative;
+     top: -2200px;   
+    left: 500px;}
+    .cardb11{position: relative;
+    top:-2980px;}
+    .cardb12{position: relative;
+    top:-3700px;
+    right: 500px;
+    }
+    .terr{
+        position: relative;
+        right: 10px;
+    }
+    .bll{
+        position: relative;
+        right:10px;
+    }
